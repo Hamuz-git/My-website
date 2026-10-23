@@ -1,7 +1,7 @@
-## **It's work in progress ⚠️**
+# It's work in progress ⚠️
 
-# My website
-# Welcome to my website!
+## My website
+## Welcome to my website!
 
 Hey there! This is my personal website, built from scratch and hosted right here on GitHub Pages. It serves as my personal hub where I share who I am, what I'm working on, and where you can find me online.
  
