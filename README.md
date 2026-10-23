@@ -1,14 +1,19 @@
-# Hamuz - Personal Website 2.0
+# My website
+# Welcome to my website!
 
-This is a redesign of my personal social hub built with HTML5 and CSS.
+Hey there! This is my personal website, built from scratch and hosted right here on GitHub Pages. It serves as my personal hub where I share who I am, what I'm working on, and where you can find me online.
+ 
+## The Goal
+I created this site to kickstart my journey as an aspiring programmer and content creator. It’s a place for me to practice coding, share my progress, and showcase what I build along the way.
 
-**[Live Demo](https://hamuz09.github.io/My-website-2.0/)**
+## What's Inside?
+The site features a simple landing page that connects to a few key sections:
+* **About Me:** A quick intro to who I am and my goals.
+* **My Links:** Where you can find all my social media and external channels.
+* **Portfolio:** A space dedicated to the projects I'm working on.
+* **Contact Me:** How to get in touch if you want to chat or collaborate.
 
-## Quick Start
-1. Open the **[Live Demo](https://hamuz09.github.io/My-website-2.0/)** in your browser.
-2. Navigate through the homepage, links hub, and contact section.
-
-## Features
-* **Dynamic Layout:** Optimized with custom fluid breakpoints for seamless mobile, tablet, and desktop viewing.
-* **Social Hub:** Dedicated `my-links.html` subpage acting as a centralized link-in-bio directory.
-* **Dark Palette UI:** Fully customized dark-themed color palette managed via CSS variables.
+## Built With
+* HTML5
+* CSS3
+  [Link](https://hamuz09.github.io/My-website-2.0/)
