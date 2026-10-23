@@ -12,8 +12,8 @@ The site features a simple landing page that connects to a few key sections:
 * **My Links:** Where you can find all my social media and external channels.
 * **Portfolio:** A space dedicated to the projects I'm working on.
 * **Contact Me:** How to get in touch if you want to chat or collaborate.
-
+* [This is the Link](https://hamuz09.github.io/My-website-2.0/)
+  
 ## Built With
 * HTML5
 * CSS3
-* [This is the Link](https://hamuz09.github.io/My-website-2.0/)
