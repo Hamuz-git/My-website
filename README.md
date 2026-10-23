@@ -16,4 +16,4 @@ The site features a simple landing page that connects to a few key sections:
 ## Built With
 * HTML5
 * CSS3
-  [Link](https://hamuz09.github.io/My-website-2.0/)
+* [This is the Link](https://hamuz09.github.io/My-website-2.0/)
